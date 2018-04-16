@@ -20,4 +20,4 @@ Plenty of Opencv projects with python.
   * [kalman_filter_object_tracking](https://github.com/srianant/kalman_filter_multi_object_tracking)
   * [Multi-sperm tracking](https://ieeexplore.ieee.org/document/7872796/)
 
-*More codes will be uploaded soon!*
+*More code will be uploaded soon!*
