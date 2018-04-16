@@ -17,4 +17,4 @@ Plenty of Opencv projects with python.
 * Zebrafish tracking
   * [idTracker](http://www.idtracker.es/download)
 * Zebrafish tracking
-  * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
+  * [idTracker](http://www.idtracker.es/download)
