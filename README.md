@@ -6,8 +6,8 @@ Plenty of Opencv projects with python.
 * Anaconda3(that is Python3.x)
 * Opencv3
 
-## Websites Recommended
-** Face detection
+### Websites Recommended
+* Face detection
   * [Python-OpenCV face detection](http://blog.csdn.net/u012162613/article/details/43523507)
   * [leiphone: OpenCV + Python](https://www.leiphone.com/news/201704/rYdpAvh4SvgVPpRQ.html?utm_source=tuicool&utm_medium=referral)
   * [mtcnn + facenet](https://zhuanlan.zhihu.com/p/25025596?refer=shanren7)
