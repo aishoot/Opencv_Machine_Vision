@@ -18,3 +18,4 @@ Plenty of Opencv projects with python.
 * Zebrafish tracking
   * [idTracker](http://www.idtracker.es/download)
   * [kalman_filter_object_tracking](https://github.com/srianant/kalman_filter_multi_object_tracking)
+  * [Multi-sperm tracking](https://ieeexplore.ieee.org/document/7872796/)
