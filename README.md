@@ -1,8 +1,6 @@
 # pyOpenCVProjects
-![](/logo.jpg)<br>
+![](/logo.jpg)
 Plenty of Opencv projects with python. 
-
-
 
 ## Requirements
 * Anaconda3(that is Python3.x)
