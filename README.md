@@ -16,3 +16,5 @@ Plenty of Opencv projects with python.
   * [MTCNN_face_detection_alignment](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html?from=timeline&isappinstalled=1)
 * Zebrafish tracking
   * [idTracker](http://www.idtracker.es/download)
+* 02-PythonLibs: Libraries for manipulating audio.
+  * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
