@@ -15,6 +15,4 @@ Plenty of Opencv projects with python.
   * [Multi-task convolutional neural networks](http://blog.csdn.net/qq_14845119/article/details/52680940)
   * [MTCNN_face_detection_alignment](https://kpzhang93.github.io/MTCNN_face_detection_alignment/index.html?from=timeline&isappinstalled=1)
 * Zebrafish tracking
-  * [idTracker](http://www.idtracker.es/download)
-* Zebrafish tracking
   * [idTracker](http://www.idtracker.es/download)
