@@ -1,5 +1,5 @@
 # pyOpenCVProjects
-![](/pic.jpg)<br>
+![](/logo.jpg)<br>
 Plenty of Opencv projects with python. 
 
 
