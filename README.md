@@ -8,6 +8,8 @@ Plenty of Opencv projects with python.
 
 ### Websites Recommended
 * Face-detection.
+  * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
+* Face-detection.
   * [Python-OpenCV face detection](http://blog.csdn.net/u012162613/article/details/43523507)
   * [leiphone: OpenCV + Python](https://www.leiphone.com/news/201704/rYdpAvh4SvgVPpRQ.html?utm_source=tuicool&utm_medium=referral)
   * [mtcnn + facenet](https://zhuanlan.zhihu.com/p/25025596?refer=shanren7)
