@@ -3,7 +3,7 @@
 Plenty of Opencv projects with python. 
 
 ## Requirements
-* Anaconda3(that is Python3.x)
+* Anaconda3 (that is Python3.x)
 * Opencv3
 
 ### Websites Recommended
