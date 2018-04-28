@@ -32,6 +32,6 @@ while(1):
     if s == 0:
         img[:] = 0
     else:
-        img[:] = [b, g, r]  # 每一维均变成[b, g, b]
+        img[:] = [b, g, r]  # 每一维均变成[b, g, b], 类似:img[100,100] = [255,255,255]
 
 cv2.destroyAllWindows()
