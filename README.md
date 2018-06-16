@@ -1,6 +1,6 @@
 # pyOpenCVProjects
 ![](/logo.jpg)<br>
-Plenty of Opencv projects with python. 
+Plenty of Opencv projects with python for beginners. 
 
 ## Requirements
 * Anaconda3 (that is Python3.x)
